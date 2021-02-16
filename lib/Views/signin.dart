@@ -88,8 +88,7 @@ class _SignInState extends State<SignIn> {
                     Text(
                       'Sign Up',
                       style: TextStyle(
-                        color: Colors.white,
-                        decoration: TextDecoration.underline,
+                        color: Colors.blueAccent,
                       ),
                     ),
                   ],

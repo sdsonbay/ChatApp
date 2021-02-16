@@ -104,8 +104,7 @@ class _SignUpState extends State<SignUp> {
                     Text(
                       'Sign In',
                       style: TextStyle(
-                        color: Colors.white,
-                        decoration: TextDecoration.underline,
+                        color: Colors.blueAccent,
                       ),
                     ),
                   ],
